@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["jorge@moratilla.com"]
   spec.summary       = %q{This output filter generates Combined Common Log Format entries}
   spec.description   = %q{This output filter generates Combined Common Log Format entries}
-  spec.homepage      = "https://github.com"
+  spec.homepage      = "https://bitbucket.org/jmoratilla/fluent-plugin-out_apache_log_format"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
