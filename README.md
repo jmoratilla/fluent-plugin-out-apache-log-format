@@ -4,6 +4,9 @@ This is a quick and dirty try on creating an output filter for Fluentd (http://f
 
 This plugin doesn't work alone.  You need to install and configure the fluentd data collector.
 
+The log format of the source logs comes from a rails web application, so the logs don't follow 
+a proper standard.
+
 
 ## Installation
 
